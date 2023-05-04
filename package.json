@@ -1,4 +1,22 @@
 {
   "name": "@ahmed.elbougha/tiny",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "I'm Tiny, best of the best!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "ahmedelbougha/tiny.git",
+  "author": "Ahmed Elbougha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedelbougha/tiny/issues"
+  },
+  "homepage": "https://github.com/ahmedelbougha/tiny#readme"
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "ahmedelbougha"
+  ]  
 }
